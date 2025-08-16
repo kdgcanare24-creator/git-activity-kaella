@@ -1,0 +1,8 @@
+Purpose of using branches:
+Branches let me try out new things or add features without messing up the main code. It feels safer to experiment.
+
+How Git helps in collaborative work:
+Git makes it easy for everyone to work together. It keeps track of changes so we don’t overwrite each other’s work.
+
+What you learned from resolving a conflict:
+I learned that conflicts happen when two people change the same line. Fixing it taught me to pay attention and communicate changes carefully.
